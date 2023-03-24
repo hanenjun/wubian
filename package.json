@@ -1,5 +1,5 @@
 {
-  "name": "tb",
+  "name": "wubian",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
@@ -36,7 +36,7 @@
     "url": "git+https://github.com/hanenjun/wubian.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "hanenjun",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hanenjun/wubian/issues"
